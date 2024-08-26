@@ -1,2 +1,2 @@
-# EI-Phipotesis
+# EIC-Phipotesis
 Datos de ejemplos
